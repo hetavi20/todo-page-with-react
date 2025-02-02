@@ -22,7 +22,7 @@ A simple React To-Do list app that allows users to add tasks, mark them as done,
 3. Start the development server:
    ```
    npm run dev
-## Usage
+## Features
 - Enter a task in the input field and click "+" to add it to the list.
 - Click the checkmark icon to mark a task as done.
 - Click the Delete button to delete a task.
