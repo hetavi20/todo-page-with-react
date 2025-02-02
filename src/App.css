@@ -1,0 +1,58 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aquamarine;
+
+}
+h1{
+    text-align: center;
+}
+
+.input-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-container > input{
+    width: 300px;
+    height: 30px;
+    font-size: 1.25rem;
+}
+
+.input-container > button
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 1.5rem;
+    background-color: #E63946;
+    margin-top: 10px;
+}
+.container{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.todo{
+    width: 500px;
+    display: flex;
+    font-size: 1.2rem;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    background-color: aliceblue;
+    padding: 0px 10px;
+    margin: 10px;
+
+}
+.actions > button
+{
+    background-color: #E63946;
+    color: white;
+    height: 30px;
+    width: 75px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
