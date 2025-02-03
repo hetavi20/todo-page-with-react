@@ -18,7 +18,7 @@ A simple React To-Do list app that allows users to add tasks, mark them as done,
 2. Navigate to the project directory and install dependencies:
    ```
    cd todo-list
-    npm install
+   npm install
 3. Start the development server:
    ```
    npm run dev
